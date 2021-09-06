@@ -1,0 +1,1 @@
+# pattern6.py
